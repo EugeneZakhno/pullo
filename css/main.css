@@ -12,7 +12,8 @@
 
 /* Делаем 3D плеер на весь браузер */
 model-viewer {
-    height: 91vh;
-    width: 200%;
+    height: 1800px;
+    width: 1200px;
+    margin: -500px;
     z-index: 2;
 }
