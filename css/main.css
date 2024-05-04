@@ -15,5 +15,5 @@ model-viewer {
     height: 1800px;
     width: 1200px;
     margin: -500px;
-    z-index: 2;
+    z-index: 1;
 }
